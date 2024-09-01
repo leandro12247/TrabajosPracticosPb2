@@ -42,6 +42,7 @@ public class Calculadora {
 		break;	
 				
 	}
+		System.out.println("Mensaje de prueba");
 		
 
 }
